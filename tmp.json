@@ -1,0 +1,1590 @@
+{
+  "data": [
+    {
+      "title": "诺曼人",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "诺曼底在哪个国家/地区？",
+              "id": "56ddde6b9a695914005b9628",
+              "answers": [
+                {
+                  "text": "法国",
+                  "answer_start": 60
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "什么时候诺曼底人在诺曼底？",
+              "id": "56ddde6b9a695914005b9629",
+              "answers": [
+                {
+                  "text": "10世纪和11世纪",
+                  "answer_start": 45
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "谁是北欧领导人？",
+              "id": "56ddde6b9a695914005b962b",
+              "answers": [
+                {
+                  "text": "罗洛",
+                  "answer_start": 102
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "谁在1000和1100年代给诺曼底命名",
+              "id": "5ad39d53604f3c001a3fe8d1",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "法国是哪个地区？",
+              "id": "5ad39d53604f3c001a3fe8d2",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "国王查理三世宣誓效忠谁？",
+              "id": "5ad39d53604f3c001a3fe8d3",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "法兰克身份何时出现？",
+              "id": "5ad39d53604f3c001a3fe8d4",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "诺曼人（诺曼人：Nourmands；法语：Normands；拉丁语：Normanni）是在10世纪和11世纪将名字命名为法国诺曼底的人。他们是北欧人的后裔（丹麦人，挪威人和挪威人）的海盗和海盗，他们在首相罗洛（Rollo）的领导下向西弗朗西亚国王查理三世宣誓效忠。经过几代人的同化，并与法兰克和罗马高卢人本地居民融合，他们的后代将逐渐与以西卡罗来纳州为基础的加洛林人文化融合。诺曼人独特的文化和种族身份最初出现于10世纪上半叶，并在随后的几个世纪中持续发展。"
+        },
+        {
+          "qas": [
+            {
+              "question": "谁是黑斯廷斯战役公爵？",
+              "id": "56dddf4066d3e219004dad5f",
+              "answers": [
+                {
+                  "text": "征服者威廉",
+                  "answer_start": 294
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "谁统治诺曼底公国",
+              "id": "56dddf4066d3e219004dad60",
+              "answers": [
+                {
+                  "text": "理查德一世",
+                  "answer_start": 173
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "诺曼王朝对现代欧洲什么样的重大影响？",
+              "id": "5ad3a266604f3c001a3fea27",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "谁是著名的为他们的基督教精神？",
+              "id": "5ad3a266604f3c001a3fea28",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "谁assimilted罗马语言？",
+              "id": "5ad3a266604f3c001a3fea29",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "谁统治诺曼底的国家吗？",
+              "id": "5ad3a266604f3c001a3fea2a",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "征服者威廉发现了什么公国？",
+              "id": "5ad3a266604f3c001a3fea2b",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "诺曼王朝对中世纪的欧洲乃至近东产生了重大的政治，文化和军事影响。诺曼人以其搏击精神而闻名，并最终以其基督教虔诚而著称，成为他们吸收了天主教正统思想的代表。他们采用了他们所居住的法兰克土地的高卢浪漫语言，他们的方言被称为诺曼语，诺曼德语或诺曼法语，这是一种重要的文学语言。他们与法国王室缔结条约，组成了诺曼底公国，是中世纪法国的盛大封建。在诺曼底的理查德一世的统治下，诺曼底公国被封建为凝聚力强大的公国。诺曼人以其独特的罗马式建筑和音乐传统等文化而著称，并因其出色的军事成就和创新而闻名。诺曼底冒险家在罗杰二世统治下的撒拉逊人和拜占庭人征服了意大利南部后建立了西西里王国，并且代表他们的公爵征服者威廉进行了远征，导致诺曼人于1066年在黑斯廷斯战役中征服了英格兰。近东，在那里他们的王子博希蒙德我创办的安提阿公在地中海东部，苏格兰和威尔士在英国的这些新的欧洲中心的十字军诺曼文化和军事的影响力蔓延指出，爱尔兰，以及海岸"
+        },
+        {
+          "qas": [
+            {
+              "question": "什么名字来自英文单词诺曼/ Normanz来？",
+              "id": "5ad3ab70604f3c001a3feb89",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "当被字诺曼法文版第一次记录？",
+              "id": "5ad3ab70604f3c001a3feb8a",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "英文名“诺曼”来自法语单词诺曼/ Normanz，诺曼特的多，现代法国诺曼德，这本身就是从旧低的法兰克Nortmann“诺特曼”或直接源自古斯堪的Norðmaðr借来的，各种拉丁化作为Nortmannus，Normannus，或"
+        },
+        {
+          "qas": [
+            {
+              "question": "诺曼底公国是什么时候建立的?",
+              "id": "56dde0ba66d3e219004dad75",
+              "answers": [
+                {
+                  "text": "911",
+                  "answer_start": 62
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "谁也罗洛签署埃普特河畔圣克莱的与条约？",
+              "id": "56dde0ba66d3e219004dad76",
+              "answers": [
+                {
+                  "text": "国王查理三世",
+                  "answer_start": 84
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "北欧人的营地何时演变成破坏性入侵？",
+              "id": "5ad3ad61604f3c001a3fec0d",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "在9世纪建立了什么条约？",
+              "id": "5ad3ad61604f3c001a3fec0e",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "谁与法国第三国王查尔斯国王订立条约？",
+              "id": "5ad3ad61604f3c001a3fec0f",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "法国人承诺保护罗洛和他的手下什么？",
+              "id": "5ad3ad61604f3c001a3fec10",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "在10世纪的过程中，挪威的战争乐队的最初破坏性入侵法国的河流演变成更持久的营地，其中包括当地妇女和个人财产。诺曼底公国，始于911作为封地，由埃普特河畔圣克莱西弗朗西亚国王查理三世和著名的海盗统治者罗洛之间的条约建立，并坐落在天幕前法兰克王国该条约提供了罗洛和他的手下河EPTE和大西洋沿岸的法国的土地，以换取他们的保护，防止进一步的海盗入侵。该区域对应于当今上诺曼底的北部，一直到塞纳河，但公国最终将向西延伸到塞纳河之外。领土大致相当于旧省鲁昂的，并再现卢格敦高卢II（前卢格敦高卢的一部分）的罗马行政结构。"
+        },
+        {
+          "qas": [
+            {
+              "question": "谁到达后给原始维京定居者一个共同的身份？",
+              "id": "56dde1d966d3e219004dad8d",
+              "answers": [
+                {
+                  "text": "罗洛",
+                  "answer_start": 1
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "罗洛什么时候开始到达诺曼底？",
+              "id": "5ad3ae14604f3c001a3fec39",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "罗洛征服了哪些维京人团体？",
+              "id": "5ad3ae14604f3c001a3fec3a",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "在罗洛（Rollo）到达之前，其人口与皮卡第（Picardy）或法兰西岛（Île-de-France）一样，后者被认为是“法兰克人”。较早的维京定居者开始于880年代到达，但在塞纳河谷下游的东部（Roumois和Pays de Caux）殖民地之间以及在Cotentin半岛的西部被划分为两个殖民地，并由传统的帕吉人（Pagii）隔开，在那里人们仍然居住突袭并最终定居诺曼底和大西洋沿岸部分地区的罗洛特遣队包括丹麦人，挪威人，挪威人-盖尔人，奥克尼维京人，可能是瑞典人，以及在丹麦人控制下的英国达内劳人盎格鲁-戴恩斯。"
+        },
+        {
+          "qas": [
+            {
+              "question": "诺曼宗教是什么？",
+              "id": "56dde27d9a695914005b9651",
+              "answers": [
+                {
+                  "text": "天主教",
+                  "answer_start": 14
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "诺曼人位于法国的哪一部分？",
+              "id": "56dde27d9a695914005b9652",
+              "answers": [
+                {
+                  "text": "北",
+                  "answer_start": 36
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "北欧宗教取代了什么？",
+              "id": "5ad3af11604f3c001a3fec63",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "孕产妇的旧北欧传统与什么融合？",
+              "id": "5ad3af11604f3c001a3fec64",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "哪种语言代替了Gallo-Romance语言？",
+              "id": "5ad3af11604f3c001a3fec65",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "罗洛维京人及其后裔的妻子将用天主教（基督教）和当地人的高卢-罗曼斯语取代北欧宗教和旧北欧语言，将其母性的法兰克传统与旧北欧传统和习俗融合在一起，以合成独特的“诺曼语系是由讲北欧语的统治阶级采用罗曼史语中的langue d'oïl本地分支而形成的，并发展成为今天仍然存在的地区性语言。"
+        },
+        {
+          "qas": [
+            {
+              "question": "谁采用了诺曼人的封建学说？",
+              "id": "5ad3c626604f3c001a3ff011",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "诺曼的主要进口商品是什么？",
+              "id": "5ad3c626604f3c001a3ff012",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "谁的贵族制度最终成为狂热的十字军？",
+              "id": "5ad3c626604f3c001a3ff013",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "此后，诺曼底人采纳了法国其他地区日益增长的封建学说，并将其纳入诺曼底和英格兰的功能等级体系。新的诺曼统治者在文化和种族上与旧的法国贵族不同，大多数贵族的血统可追溯到加洛林王朝的弗兰克斯。大部分诺曼底骑士仍然贫穷而饥饿，到1066年，诺曼底已经向战斗骑士输出了超过一代的时间。意大利，法国和英国的许多诺曼人最终在Italo-Norman王子Bohemund I和盎格鲁-Norman国王理查德·狮子心下担任狂热的十字军。"
+        },
+        {
+          "qas": [
+            {
+              "question": "拜占庭帝国之后不久谁进入了意大利？",
+              "id": "5ad3dbc6604f3c001a3ff3e9",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "诺曼人在意大利与谁作战？",
+              "id": "5ad3dbc6604f3c001a3ff3ea",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "诺曼底人鼓励谁来到南方？",
+              "id": "5ad3dbc6604f3c001a3ff3eb",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "在Vargian和Lombard进行哪一场战役中？",
+              "id": "5ad3dbc6604f3c001a3ff3ec",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "诺曼人开始进入意大利后不久，他们进入了拜占庭帝国，然后进入亚美尼亚，与Pechenegs，Bulgars，尤其是Seljuk Turks作战。伦巴第人首先鼓励诺曼雇佣军向南部进攻，对付拜占庭人，但他们不久后便在西西里岛为拜占庭人服务。在1038–40年的西西里人乔治·马尼亚切斯战役中，他们与瓦兰吉安和伦巴第特遣队并肩作战。辩论中的诺曼人实际上是否来自意大利的诺曼人，现在看来只有少数人来自那里。拜占庭人称他们中的“法兰克人”中有多少是诺曼人而不是其他法国人也是未知的。"
+        },
+        {
+          "qas": [
+            {
+              "question": "赫尔夫什么时候担任拜占庭将军？",
+              "id": "56de0ffd4396321400ee258d",
+              "answers": [
+                {
+                  "text": "1050年代",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "罗伯特·克里斯平（Robert Crispin）何时与土耳其人对抗？",
+              "id": "56de0ffd4396321400ee258e",
+              "answers": [
+                {
+                  "text": "1060年代",
+                  "answer_start": 100
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "谁是在诺曼底服役的第一位拜占庭佣兵？",
+              "id": "5ad3de8b604f3c001a3ff467",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "赫尔夫什么时候担任诺曼将军？",
+              "id": "5ad3de8b604f3c001a3ff468",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "谁毁了亚历克修斯·科姆诺诺斯（Alexius Komnenos）建立独立国家的计划？",
+              "id": "5ad3de8b604f3c001a3ff469",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "埃尔维什么时候与土耳其人对抗？",
+              "id": "5ad3de8b604f3c001a3ff46a",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "1050年代的埃尔维（Helvé）是最早担任拜占庭将军的诺曼雇佣兵之一。但是，到那时，已经有诺曼底雇佣军在特雷比松和乔治亚州任职。他们的总部设在安提阿的拜占庭公爵以撒·科莫诺斯下的马拉蒂亚和埃德萨。在1060年代，罗伯特·克里斯平（Robert Crispin）带领埃德萨（Edessa）的诺曼人对抗土耳其人。Roussel de Bailleul甚至试图在当地居民的支持下建立小亚细亚的独立国家，但他被拜占庭将军Alexius Komnenos阻止。"
+        },
+        {
+          "qas": [
+            {
+              "question": "诺曼人在安纳托利亚与谁合作？",
+              "id": "56de10b44396321400ee2595",
+              "answers": [
+                {
+                  "text": "土耳其军队",
+                  "answer_start": 7
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "谁与诺曼部队一起摧毁亚美尼亚人？",
+              "id": "5ad3e96b604f3c001a3ff689",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "土耳其人与谁一起服务？",
+              "id": "5ad3e96b604f3c001a3ff68a",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "弗兰克率领诺曼部队吗？",
+              "id": "5ad3e96b604f3c001a3ff68b",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "欧塞尔在哪里领导法兰克人？",
+              "id": "5ad3e96b604f3c001a3ff68c",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "一些诺曼人加入土耳其军队，以协助摧毁安那托利亚远东地区亚美尼亚的萨松和塔隆的附庸国。后来，许多人在更南的西里西亚和金牛座山脉的亚美尼亚国家服役。一位名叫Oursel的诺曼人率领一支“法兰克人”部队进入叙利亚北部的幼发拉底河上游山谷。从1073年到1074年，亚美尼亚将军Philaretus Brachamius的20,000名士兵中有8,000名是由Raimbaud领导的诺曼人（前身是Oursel）。他们甚至把族裔借给了城堡的名字：Afranji，意为“法兰克人”。阿马尔菲和安提阿之间以及巴里和塔尔苏斯之间的已知贸易可能与这些城市中的伊塔洛诺曼人的存在有关，而阿马尔菲和巴里则在意大利受诺曼人统治。"
+        },
+        {
+          "qas": [
+            {
+              "question": "几个诺曼佣兵家族来自哪里？",
+              "id": "5ad3ea79604f3c001a3ff6e9",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "诺曼人在10世纪曾为谁服务？",
+              "id": "5ad3ea79604f3c001a3ff6ea",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "乔治·马尼亚切斯在10世纪领导过什么探险？",
+              "id": "5ad3ea79604f3c001a3ff6eb",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "拜占庭皇帝在寻找西欧勇士时，在科摩尼恢复时期，拜占庭希腊的几个家族都是诺曼雇佣军。Raoulii是由名叫Raoul的Italo-Norman派生的，Petraliphae是由Pierre d'Aulps派生的，那群称为Maniakates的阿尔巴尼亚氏族是在1038年西西里探险队的George Maniaces统治下担任诺曼人的后裔。"
+        },
+        {
+          "qas": [
+            {
+              "question": "普利亚伯爵的名字叫什么",
+              "id": "56de148dcffd8e1900b4b5bc",
+              "answers": [
+                {
+                  "text": "罗伯特·吉斯卡德",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Dy虫是什么时候落入诺曼人的？",
+              "id": "56de148dcffd8e1900b4b5bd",
+              "answers": [
+                {
+                  "text": "1082",
+                  "answer_start": 440
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "罗伯特的军队中有多少人？",
+              "id": "56de148dcffd8e1900b4b5be",
+              "answers": [
+                {
+                  "text": "30,000",
+                  "answer_start": 163
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "谁最终将拜占庭人赶出了欧洲？",
+              "id": "5ad3ed26604f3c001a3ff799",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "哪个教皇反对罗伯茨的竞选活动？",
+              "id": "5ad3ed26604f3c001a3ff79a",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "十世纪诺曼人遭受了什么打击？",
+              "id": "5ad3ed26604f3c001a3ff79b",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "罗伯茨军队面对多少人？",
+              "id": "5ad3ed26604f3c001a3ff79c",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "罗伯特·吉斯卡德（Robert Guiscard）是另一位诺曼族冒险家，由于他的军事成功，他此前曾提升到普利亚大区的尊严，最终将拜占庭人赶出了意大利南部。罗伯特在获得教皇格雷戈里七世的同意并担任封臣之后，继续征服巴尔干半岛，成为西方封建领主和天主教的立足点。在与克罗地亚和达尔马提亚的天主教城市结盟后，1081年，他带领一支由30,000人组成的军队，乘300艘船降落在阿尔巴尼亚的南岸，占领了瓦罗纳，卡尼纳，杰里科（奥里库米），经过多次劫掠后到达布特林特。他们加入了以前征服科孚岛的舰队，并从陆地和海洋袭击了Dyrachium，摧毁了沿途的一切。在这种严酷的环境下，当地人接受了皇帝亚历克修斯一世的呼吁，与拜占庭人联合起来对付诺曼人。阿尔巴尼亚部队无法参加随后的战斗，因为它是在抵达之前开始的。战斗即将来临之前，威尼斯人的舰队在该市周围的海岸取得了胜利。亚历克修斯被迫撤退，将命令割让给了一位名叫Comiscortes的阿尔巴尼亚高级官员，以服务拜占庭。这座城市的驻军一直抵抗到1082年2月，那时定居者被定居在那里的威尼斯人和阿马尔菲坦商人卖给了诺曼底人。诺曼人现在可以自由地进入内地了。高层之间的争执迫使诺曼人撤退到意大利。罗伯特死后，他们在1085年失去了Dyrachium，Valona和Butrint。"
+        },
+        {
+          "qas": [
+            {
+              "question": "罗伯特的儿子是谁？",
+              "id": "56de15104396321400ee25b8",
+              "answers": [
+                {
+                  "text": "Bohemond",
+                  "answer_start": 31
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "诺曼人在11世纪曾围攻谁？",
+              "id": "5ad3ee2d604f3c001a3ff7e1",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "罗伯特（Robert）在1107年领导谁反对Dy病？",
+              "id": "5ad3ee2d604f3c001a3ff7e2",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "Bohemond的儿子是谁？",
+              "id": "5ad3ee2d604f3c001a3ff7e3",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "第一次十字军东征后的1107年，诺曼人在罗伯特的儿子博赫蒙德（Bohemond）的指挥下，降落在瓦罗纳（Valona），并用当时最先进的军事设备围困了Dyrrachium，但无济于事。同时，他们占领了德伯利斯（Deabolis）河，格拉韦尼察（Ballsh），卡尼纳（Kanina）和耶利哥（Jericho）两岸的米利城堡Petrela。这次，阿尔巴尼亚人与诺曼人并肩，对拜占庭人对其施加的沉重税额不满意。在他们的帮助下，诺曼人获得了Arbanon通行证，并通向Dibra。物资，疾病和拜占庭抵抗力量的缺乏迫使博赫蒙德退出竞选，并与德拜利斯市的拜占庭人签署了和平条约。"
+        },
+        {
+          "qas": [
+            {
+              "question": "诺曼人何时袭击了Dy虫？",
+              "id": "56de1563cffd8e1900b4b5c2",
+              "answers": [
+                {
+                  "text": "1185",
+                  "answer_start": 12
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Dy虫在哪里？",
+              "id": "56de1563cffd8e1900b4b5c4",
+              "answers": [
+                {
+                  "text": "亚得里亚海",
+                  "answer_start": 80
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "谁在11世纪袭击了Dyrachium？",
+              "id": "5ad3f028604f3c001a3ff823",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "谁背叛了诺曼人？",
+              "id": "5ad3f028604f3c001a3ff824",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "诺曼人的海军基地是什么？",
+              "id": "5ad3f028604f3c001a3ff825",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "拜占庭事态的进一步下降为1185年的第三次进攻铺平了道路，当时，由于背叛了拜占庭的高级官员，一支庞大的诺曼军队入侵了Dyrachium。一段时间后，Dy拉虫病（亚得里亚海最重要的海军基地之一）再次落入拜占庭之手。"
+        },
+        {
+          "qas": [
+            {
+              "question": "埃瑟瑞德逃到了哪里？",
+              "id": "56de15dbcffd8e1900b4b5ca",
+              "answers": [
+                {
+                  "text": "诺曼底",
+                  "answer_start": 67
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "谁嫁给了伟大的Cnut？",
+              "id": "5ad3f187604f3c001a3ff86f",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "理查德二世什么时候逃到诺曼底？",
+              "id": "5ad3f187604f3c001a3ff870",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "谁的主要港口由英国人控制？",
+              "id": "5ad3f187604f3c001a3ff871",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "诺曼人从很早就开始与英格兰接触。他们最初的维京兄弟不仅仍在肆虐英吉利海峡，而且他们横跨英吉利海峡占领了英格兰对面的大多数重要港口。通过诺曼底公爵理查德二世的姐姐艾玛和英格兰的埃塞尔瑞德二世的婚姻，这种关系最终产生了更紧密的血缘关系。因此，埃瑟雷德（Ethelred）在1013年被斯温·福克比德（Sweyn Forkbeard）驱逐出国时逃往诺曼底。他在诺曼底的逗留（直到1016年）对艾玛和他的儿子产生了影响，艾玛在克努特大帝征服小岛后一直住在诺曼底。"
+        },
+        {
+          "qas": [
+            {
+              "question": "Edward悔者的同父异母兄弟爱德华是谁？",
+              "id": "56de1645cffd8e1900b4b5d0",
+              "answers": [
+                {
+                  "text": "Harthacnut",
+                  "answer_start": 36
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "爱德华什么时候回来的？",
+              "id": "56de1645cffd8e1900b4b5d1",
+              "answers": [
+                {
+                  "text": "1041",
+                  "answer_start": 23
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Edward悔者的儿子爱德华什么时候从他父亲的避难所回来的？",
+              "id": "5ad3f350604f3c001a3ff8ef",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "Harthacnut建立了什么样的力量？",
+              "id": "5ad3f350604f3c001a3ff8f0",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "谁让朱米耶斯的罗伯特·赫里福德伯爵？",
+              "id": "5ad3f350604f3c001a3ff8f1",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "最终，Edward悔者爱德华（Edward）于1041年应其同父异母兄弟Harthacnut的邀请从父亲的避难所返回，他带来了诺曼底的教育思想。他还带来了许多诺曼的顾问和战士，其中一些人建立了英国骑兵部队。这个概念从来没有真正扎根，但这是爱德华态度的一个典型例子。他任命坎特伯雷大主教朱米耶斯的罗伯特，并让拉尔夫成为赫里福德的怯Tim伯爵。他在1051年邀请他的姐夫尤斯塔斯二世（Eustace II）布洛涅伯爵（Count of Boulogne）出庭，这一事件导致萨克森（Saxon）和诺曼（Norman）之间发生了最大的早期冲突，最终导致韦塞克斯伯爵高德温（Earl Godwin）流放。"
+        },
+        {
+          "qas": [
+            {
+              "question": "哈罗德二世在哪里死？",
+              "id": "56de16ca4396321400ee25c5",
+              "answers": [
+                {
+                  "text": "黑斯廷斯战役",
+                  "answer_start": 16
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "谁杀死了哈罗德二世？",
+              "id": "56de16ca4396321400ee25c6",
+              "answers": [
+                {
+                  "text": "威廉二世",
+                  "answer_start": 11
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "黑斯廷斯战役是什么时候？",
+              "id": "56de16ca4396321400ee25c7",
+              "answers": [
+                {
+                  "text": "1066",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "谁是诺曼人之前的统治阶级？",
+              "id": "56de16ca4396321400ee25c8",
+              "answers": [
+                {
+                  "text": "盎格鲁撒克逊人",
+                  "answer_start": 54
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "哈罗德二世国王何时征服英格兰？",
+              "id": "5ad3f4b1604f3c001a3ff951",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "十世纪发生了什么战斗？",
+              "id": "5ad3f4b1604f3c001a3ff952",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "谁取代诺曼人成为统治阶级？",
+              "id": "5ad3f4b1604f3c001a3ff953",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "谁认为他们在非洲大陆上的土地是最重要的土地？",
+              "id": "5ad3f4b1604f3c001a3ff954",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "1066年，诺曼底公爵威廉二世在黑斯廷斯战役中征服了英格兰，杀死了哈罗德二世国王。入侵的诺曼人及其后裔取代了盎格鲁撒克逊人，成为英格兰的统治阶级。英格兰的贵族是单一诺曼人文化的一部分，许多人在海峡两岸都拥有土地。英格兰早期的诺曼国王，即诺曼底公爵，向法国国王表示敬意，感谢他们在非洲大陆上的土地。他们认为英格兰是他们最重要的财产（它带来了国王的头衔-一个重要的地位象征）。"
+        },
+        {
+          "qas": [
+            {
+              "question": "盎格鲁-诺曼语言的最终形式是什么？",
+              "id": "56de1728cffd8e1900b4b5d7",
+              "answers": [
+                {
+                  "text": "现代英语",
+                  "answer_start": 180
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "百年战争中谁将自己称为法国人？",
+              "id": "5ad3f5b0604f3c001a3ff9ab",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "盎格鲁-诺曼语言吸收了什么？",
+              "id": "5ad3f5b0604f3c001a3ff9ac",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "谁取笑了拉丁语言？",
+              "id": "5ad3f5b0604f3c001a3ff9ad",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "最终，诺曼人与当地人融合，融合了语言和传统。在百年战争中，诺曼贵族经常以英语为自己。盎格鲁-诺曼语变得不同于拉丁语，这是杰弗里·乔Ge（Geoffrey Chaucer）幽默的主题。最终，盎格鲁-诺曼语被他们的科目盎格鲁-撒克逊人的语言所吸收（参见古英语）并对其产生了影响，并帮助了（连同早期的盎格鲁-北欧人定居者的挪威语和教会使用的拉丁语）。反过来，它演变成现代英语。"
+        },
+        {
+          "qas": [
+            {
+              "question": "诺曼入侵那一年是在那诺湾吗？",
+              "id": "56de179dcffd8e1900b4b5da",
+              "answers": [
+                {
+                  "text": "1169",
+                  "answer_start": 13
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "1169年诺曼人入侵哪个国家？",
+              "id": "56de179dcffd8e1900b4b5db",
+              "answers": [
+                {
+                  "text": "爱尔兰",
+                  "answer_start": 30
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "诺曼人在爱尔兰融入了什么文化？",
+              "id": "56de179dcffd8e1900b4b5dc",
+              "answers": [
+                {
+                  "text": "爱尔兰人",
+                  "answer_start": 102
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "诺曼人在11世纪入侵哪里？",
+              "id": "5ad3f6f5604f3c001a3ffa09",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "爱尔兰文化对谁产生了深远的影响？",
+              "id": "5ad3f6f5604f3c001a3ffa0a",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "爱尔兰人建造了哪些城堡？",
+              "id": "5ad3f6f5604f3c001a3ffa0b",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "诺曼人（Normans）在1169年入侵Bannow湾后，对爱尔兰的文化和历史产生了深远的影响。最初，诺曼人保持着独特的文化和种族。然而，随着时间的流逝，他们逐渐被纳入爱尔兰文化，以至于人们说他们变得“比爱尔兰人自己更爱尔兰化”。诺曼人大多定居在爱尔兰东部的一个地区，后来被称为苍白，还建造了许多精美的城堡和定居点，包括特里姆城堡和都柏林城堡。两种文化融合在一起，借鉴了彼此的语言，文化和视野。今天的诺曼后裔可以通过姓氏来识别。诸如法文，（De）Roche，Devereux，D'Arcy，Treacy和Lacy之类的名字在爱尔兰东南部尤为常见，尤其是在韦克斯福德郡的南部，这是第一个诺曼人定居点的建立。弗隆（Furlong）等其他诺曼人的名字在那儿盛行。另一个常见的Norman-Irish名称是Morell（Murrell），它源于法国Norman的名字Morel。其他以Fitz开头的名字（来自诺曼的儿子）代表诺曼血统。这些包括菲茨杰拉德，菲茨长臂猿（Gibbons）王朝，菲茨莫里斯。其他姓氏如Barry（de Barra）和DeBúrca（Burke）的家庭也属于诺曼族。"
+        },
+        {
+          "qas": [
+            {
+              "question": "玛格丽特的兄弟是谁？",
+              "id": "56de17f9cffd8e1900b4b5e0",
+              "answers": [
+                {
+                  "text": "埃德加",
+                  "answer_start": 17
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "玛格丽特的丈夫是谁？",
+              "id": "56de17f9cffd8e1900b4b5e1",
+              "answers": [
+                {
+                  "text": "苏格兰国王马尔科姆三世",
+                  "answer_start": 32
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "苏格兰什么时候被威廉入侵？",
+              "id": "56de17f9cffd8e1900b4b5e2",
+              "answers": [
+                {
+                  "text": "1072",
+                  "answer_start": 113
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "谁是人质？",
+              "id": "56de17f9cffd8e1900b4b5e3",
+              "answers": [
+                {
+                  "text": "邓肯",
+                  "answer_start": 175
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "埃德加嫁给了谁？",
+              "id": "5ad3f7ac604f3c001a3ffa3b",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "谁在10世纪入侵苏格兰？",
+              "id": "5ad3f7ac604f3c001a3ffa3c",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "苏格兰国王把谁当作人质？",
+              "id": "5ad3f7ac604f3c001a3ffa3d",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "反对征服者威廉的英国王位索赔人之一埃德加·阿瑟林最终逃往苏格兰。苏格兰国王马尔科姆三世与埃德加的姐姐玛格丽特（Margaret）结婚，并与已经对苏格兰南部边界产生争议的威廉姆（William）形成对立。威廉（William）在1072年入侵苏格兰，一直骑到阿伯内西（Abernethy），在那里遇到了他的舰队。马尔科姆屈服，向威廉表示敬意，并交出儿子邓肯作为人质，开始就苏格兰王冠是否应归英格兰国王效忠一系列争论。"
+        },
+        {
+          "qas": [
+            {
+              "question": "亚历山大一世与谁结婚？",
+              "id": "56de3cd0cffd8e1900b4b6be",
+              "answers": [
+                {
+                  "text": "诺曼底的西比拉",
+                  "answer_start": 95
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "什么文化到达苏格兰被称为“大卫革命”？",
+              "id": "56de3cd0cffd8e1900b4b6bf",
+              "answers": [
+                {
+                  "text": "诺曼",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "苏格兰国王大卫一世与谁结婚？",
+              "id": "5ad3f8d2604f3c001a3ffa8d",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "诺曼底的Sybilla向苏格兰介绍了什么？",
+              "id": "5ad3f8d2604f3c001a3ffa8e",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "诺曼人来到苏格兰，建造城堡并建立贵族家庭，这些家庭会提供一些未来的国王，例如罗伯特·布鲁斯（Robert the Bruce），并建立了许多苏格兰氏族。苏格兰的大卫一世国王（亚历山大一世）与诺曼底的西比拉（Sybilla）结婚，在将诺曼斯和诺曼文化引入苏格兰方面发挥了重要作用，这是一些学者称之为“大卫大革命”的过程的一部分。大卫曾在英格兰亨利一世的法庭上度过（嫁给了大卫的姐姐苏格兰的莫德），需要他们从他的同父异母兄弟MáelColuim mac Alaxandair手中夺取王国，大卫不得不用土地奖励许多人。在大卫的继任者（尤其是在威廉·威廉姆·威廉姆斯的领导下），这一过程一直在继续。诺曼派的封建制度在苏格兰大部分地区得到了不同程度的应用。布鲁斯，格雷，拉姆齐，弗雷泽，奥吉维，蒙哥马利，辛克莱，波洛克，伯纳德，道格拉斯和戈登等地的苏格兰家族仅举几例，包括后来的斯图尔特王室，都可以追溯到诺曼血统。"
+        },
+        {
+          "qas": [
+            {
+              "question": "拉尔夫伯爵在哪里？",
+              "id": "56de3d594396321400ee26ca",
+              "answers": [
+                {
+                  "text": "赫里福德",
+                  "answer_start": 69
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "拉尔夫负责与谁作战？",
+              "id": "56de3d594396321400ee26cb",
+              "answers": [
+                {
+                  "text": "威尔士",
+                  "answer_start": 20
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "谁使拉尔夫伯爵？",
+              "id": "56de3d594396321400ee26cc",
+              "answers": [
+                {
+                  "text": "悔者爱德华",
+                  "answer_start": 26
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "征服英格兰后，谁与威尔士接触？",
+              "id": "5ad3fb01604f3c001a3ffb35",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "谁让爱德华成为Conf悔伯爵？",
+              "id": "5ad3fb01604f3c001a3ffb36",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "甚至在诺曼征服英格兰之前，诺曼人就已经与威尔士接触。悔者爱德华（Edward of Confessor）设立了上述拉尔夫（Ralph）作为赫里福德伯爵，并指控他保卫游行，并与威尔士交战。在这些原始的冒险中，诺曼人未能进军威尔士。"
+        },
+        {
+          "qas": [
+            {
+              "question": "哪个国家受到诺曼男爵的控制？",
+              "id": "56de3dbacffd8e1900b4b6d2",
+              "answers": [
+                {
+                  "text": "威尔士",
+                  "answer_start": 94
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "征服之前威廉姆斯统治了什么？",
+              "id": "5ad3fb6e604f3c001a3ffb5f",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "威廉征服了哪些威尔士贵族？",
+              "id": "5ad3fb6e604f3c001a3ffb60",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "然而，征服之后，游行完全受到威廉最受信任的诺曼男爵的统治，其中包括伯纳德·德·诺伊弗玛切尔，什罗普郡的蒙哥马利罗杰和柴郡的休·卢普斯。这些诺曼人开始了漫长的缓慢征服时期，在此期间，几乎整个威尔士都在某个时刻受到诺曼人的干扰。诺曼语，例如男爵（baron），最早是在那时进入威尔士语的。"
+        },
+        {
+          "qas": [
+            {
+              "question": "罗杰·德·托斯尼哪一年没完成他打算要做的事情？",
+              "id": "56de3e414396321400ee26d8",
+              "answers": [
+                {
+                  "text": "1018",
+                  "answer_start": 71
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "第一次十字军东征之前，诺曼人在哪里取得统治地位？",
+              "id": "5ad3fc41604f3c001a3ffb8f",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "诺曼人在10世纪参与了什么？",
+              "id": "5ad3fc41604f3c001a3ffb90",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "谁从摩尔人的土地上为自己创造了一个国家？",
+              "id": "5ad3fc41604f3c001a3ffb91",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "在上个世纪发生了什么战争？",
+              "id": "5ad3fc41604f3c001a3ffb92",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "在第一次十字军东征在安提阿建立诺曼公国之前，就曾在宗教战争中行使过诺曼人的传奇宗教热情。他们是伊比利亚Reconquista的主要外国参与者。1018年，罗杰·德·托斯尼（Roger de Tosny）前往伊比利亚半岛，从摩尔人的土地上为自己开辟了一个州，但失败了。1064年，在巴巴斯特罗（Barbastro）战争期间，蒙特勒（Montreuil）的威廉（William of Montreuil）率领罗马教皇军并取得了巨大的战利品。"
+        },
+        {
+          "qas": [
+            {
+              "question": "安提阿之围何时发生？",
+              "id": "56de3ebc4396321400ee26e6",
+              "answers": [
+                {
+                  "text": "1097",
+                  "answer_start": 139
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Tancred取得了哪些重大征服？",
+              "id": "56de3ebc4396321400ee26e8",
+              "answers": [
+                {
+                  "text": "耶路撒冷",
+                  "answer_start": 196
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Tancred何时围困了Antioch？",
+              "id": "5ad4017a604f3c001a3ffd1f",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "Tancred的侄子叫什么名字？",
+              "id": "5ad4017a604f3c001a3ffd20",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "1096年，塔拉托（Taranto）的博赫蒙德（Bohemond）和他的侄子坦克雷德（Tancred）与义大利-诺曼斯（Italo-Normans）军队一起加入了十字军，攻占了阿马尔菲（Amalfi），博希蒙德（Bohemond）是十字军东征穿越小亚细亚期间的事实上的领导人。在1097年成功围攻安提阿后，Bohemond开始在那个城市周围建立一个独立的公国。坦克雷德（Tancred）在征服耶路撒冷方面发挥了重要作用，他为跨界乔丹（Transjordan）和加利利地区的十字军王国扩张工作。[需要引用]"
+        },
+        {
+          "qas": [
+            {
+              "question": "西欧控制塞浦路斯多长时间了？",
+              "id": "56de3efccffd8e1900b4b6fe",
+              "answers": [
+                {
+                  "text": "380年",
+                  "answer_start": 43
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "谁在第三次十字军东征中击败了盎格鲁-诺曼部队？",
+              "id": "5ad401f2604f3c001a3ffd41",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "谁统治了西欧380年？",
+              "id": "5ad401f2604f3c001a3ffd42",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "第三次十字军东征的盎格鲁-诺曼帝国军队征服塞浦路斯，开启了该岛历史的新篇章，在接下来的380年中，它将由西欧统治。虽然这不是计划行动的一部分，但征服的结果比最初预期的要持久得多。"
+        },
+        {
+          "qas": [
+            {
+              "question": "是什么破坏了理查德计划到达英亩的计划？",
+              "id": "56de3f784396321400ee26fa",
+              "answers": [
+                {
+                  "text": "一场风暴",
+                  "answer_start": 70
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "理查德的未婚妻是谁？",
+              "id": "56de3f784396321400ee26fb",
+              "answers": [
+                {
+                  "text": "贝伦加里亚",
+                  "answer_start": 97
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "暴风雨袭击了理查德的船队是哪一年？",
+              "id": "56de3f784396321400ee26fc",
+              "answers": [
+                {
+                  "text": "1191",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "谁在11世纪离开了墨西拿？",
+              "id": "5ad40280604f3c001a3ffd57",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "理查兹舰队哪一年避过暴风雨？",
+              "id": "5ad40280604f3c001a3ffd58",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "谁在11世纪统治塞浦路斯？",
+              "id": "5ad40280604f3c001a3ffd59",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "1191年4月，狮友理查德（Richard the Lion-hearted）带着庞大的舰队离开了墨西拿（Messina），以到达英亩。但是一场风暴驱散了舰队。经过一番搜索，发现载有姐姐和未婚夫贝伦加里亚的船与包括宝藏船在内的其他几艘船的残骸一起被锚定在塞浦路斯的南海岸。残骸的幸存者已被该岛的霸主艾萨克·科姆诺诺斯（Isaac Komnenos）俘虏。1191年5月1日，理查德的舰队抵达塞浦路斯的利马索尔港。他命令以撒释放囚犯和财宝。以撒拒绝了，所以理查德登陆了他的部队并占领了利马索尔。"
+        },
+        {
+          "qas": [
+            {
+              "question": "以撒的链条是用什么做成的？",
+              "id": "56de40da4396321400ee2709",
+              "answers": [
+                {
+                  "text": "银",
+                  "answer_start": 186
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "谁的链条是用铜制成的？",
+              "id": "5ad404a6604f3c001a3ffde1",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "谁带领艾萨克部队到塞浦路斯？",
+              "id": "5ad404a6604f3c001a3ffde2",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "谁给以撒生了女儿？",
+              "id": "5ad404a6604f3c001a3ffde3",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "圣地的各个王子同时到达了利马索尔，特别是盖伊·德·卢西坦。所有人都宣布支持理查德，只要他支持盖伊反对他的竞争对手蒙特费拉特的康拉德。当地的贵族们抛弃了以撒，艾沙克曾考虑与理查德和睦相处，加入他的十字军东征，并将他的女儿嫁给了理查德所命名的人。但是以撒改变了主意，试图逃脱。理查德随后在盖伊·德·卢西根（Guy de Lusignan）的率领下，征服了整个岛屿。以撒投降并被银链束缚，因为理查德曾许诺不会将他放在铁链中。到6月1日，理查德已征服了整个岛屿。他的功绩得到了广泛宣传，并为他的声誉做出了贡献。理查德（Richard）于6月5日与盟友一起前往阿克（Acre）。出发前，他任命诺曼将军中的两名将军理查德·德·卡姆维尔和罗伯特·德·桑纳姆为塞浦路斯的州长。"
+        },
+        {
+          "qas": [
+            {
+              "question": "加那利群岛在哪个海岸附近？",
+              "id": "56de49564396321400ee277a",
+              "answers": [
+                {
+                  "text": "非洲",
+                  "answer_start": 67
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "谁在14世纪征服了加那利群岛？",
+              "id": "5ad40419604f3c001a3ffdb7",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "亚洲沿海有哪些岛屿？",
+              "id": "5ad40419604f3c001a3ffdb8",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "在1402年和1405年之间，由诺曼贵族让·德·贝登科特和Poitevine Gadifer de la Salle率领的探险队征服了非洲大西洋沿岸的加那利群岛的兰萨罗特岛，富埃特文图拉岛和耶罗岛。他们的部队聚集在加斯科尼的诺曼底，后来由卡斯蒂利亚殖民者加强。"
+        },
+        {
+          "qas": [
+            {
+              "question": "亨利二世在加那利岛取了什么头衔？",
+              "id": "5ad403c1604f3c001a3ffd97",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "谁在14世纪将权利卖给了该岛？",
+              "id": "5ad403c1604f3c001a3ffd98",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "贝登科特被冠以加那利群岛国王的头衔，成为卡斯蒂利亚亨利三世的附庸。1418年，让（Jean）的侄子Maciot de Bethencourt将土地所有权卖给了Niebla伯爵2号的EnriquePérezdeGuzmán。"
+        },
+        {
+          "qas": [
+            {
+              "question": "泽西岛和根西岛在哪里",
+              "id": "56de4a474396321400ee2786",
+              "answers": [
+                {
+                  "text": "海峡群岛",
+                  "answer_start": 28
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "在1000年到1300年之间发展了什么诺曼定律？",
+              "id": "5ad40358604f3c001a3ffd7d",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "什么法律有3个客户？",
+              "id": "5ad40358604f3c001a3ffd7e",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "在十二世纪创作了什么？",
+              "id": "5ad40358604f3c001a3ffd7f",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "诺曼底的习惯法是在10到13世纪之间发展起来的，如今通过海峡群岛的泽西岛和根西岛的法律体系得以保留。两位法官和他们的同事将诺曼习惯法转录成两种拉丁文习惯，供他们和他们的同事使用：这是Trèsancien coutumier（非常古老的习惯），在1200年至1245年间制定；"
+        },
+        {
+          "qas": [
+            {
+              "question": "什么是诺曼式建筑习语？",
+              "id": "56de4a89cffd8e1900b4b7bd",
+              "answers": [
+                {
+                  "text": "罗马式",
+                  "answer_start": 33
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "诺曼人发明了什么类型的拱门？",
+              "id": "5ad402ce604f3c001a3ffd67",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "诺曼式建筑通常是其所占领地区的建筑历史上的一个新阶段。他们将独特的罗马式成语传播到英格兰和意大利，而这些地区的城堡风格仍保留着法国北部风格，从根本上改变了军事格局。他们的风格以圆形拱门为特征，尤其是在窗户和门口，以及大量的拱门。"
+        },
+        {
+          "qas": [
+            {
+              "question": "英格兰的诺曼之后是什么建筑类型？",
+              "id": "56de4b074396321400ee2793",
+              "answers": [
+                {
+                  "text": "早期哥特式",
+                  "answer_start": 30
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "英格兰的诺曼之前出现了什么建筑类型？",
+              "id": "56de4b074396321400ee2794",
+              "answers": [
+                {
+                  "text": "盎格鲁-撒克逊",
+                  "answer_start": 15
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "诺曼阿拉伯建筑风格在哪个地方？",
+              "id": "56de4b074396321400ee2795",
+              "answers": [
+                {
+                  "text": "西西里王国",
+                  "answer_start": 77
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "在盎格鲁-撒克逊建筑时期之前是什么？",
+              "id": "5ad400b0604f3c001a3ffcdf",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "早期哥特式之后出现了什么建筑类型？",
+              "id": "5ad400b0604f3c001a3ffce0",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "谁在英国融合了伊斯兰，伦巴底和拜占庭的建筑技术？",
+              "id": "5ad400b0604f3c001a3ffce1",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "在英格兰，诺曼式建筑的时期紧随盎格鲁-撒克逊时期之后，并早于早期哥特式时期。在意大利南部，诺曼人将伊斯兰，伦巴底和拜占庭的建筑技术元素融合到了一起，从而在西西里王国内创立了一种独特的风格，即诺曼阿拉伯式建筑。"
+        },
+        {
+          "qas": [
+            {
+              "question": "教会改革何时开始？",
+              "id": "56de4b5c4396321400ee2799",
+              "answers": [
+                {
+                  "text": "11世纪初",
+                  "answer_start": 34
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "谁利用教会来统一自己？",
+              "id": "56de4b5c4396321400ee279a",
+              "answers": [
+                {
+                  "text": "公爵",
+                  "answer_start": 40
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "诺曼人有什么传统？",
+              "id": "5ad3ffd7604f3c001a3ffca7",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "谁在1100年代开始进行教会改革计划",
+              "id": "5ad3ffd7604f3c001a3ffca8",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "谁被教会分开了？",
+              "id": "5ad3ffd7604f3c001a3ffca9",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "谁在1100和1200年代经历了黄金时代",
+              "id": "5ad3ffd7604f3c001a3ffcaa",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "在视觉艺术方面，诺曼人没有所征服的文化丰富而独特的传统。然而，在公元11世纪初，公爵开始了一项教堂改革计划，鼓励对修道院的克鲁尼科改革，并光顾知识分子的追求，尤其是手抄本的泛滥和丢失的手抄本的汇编的重建。公爵利用教会作为他们不同公国的统一力量。参加诺曼艺术和奖学金“复兴”的主要修道院是圣米歇尔山，费康，朱米耶斯，贝克，圣旺，圣埃夫鲁和圣旺德里。这些中心与所谓的“温彻斯特学派”建立了联系，后者将纯加洛林主义的艺术传统传播给了诺曼底。在11世纪的最后十年和12世纪的第一个十年，诺曼底经历了插图手稿的黄金时代，但是那是短暂的，诺曼底的主要手稿在本世纪中叶以后就停止了运作。"
+        },
+        {
+          "qas": [
+            {
+              "question": "法国的宗教战争何时发生？",
+              "id": "56de4bb84396321400ee27a2",
+              "answers": [
+                {
+                  "text": "16世纪",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "法国在1600年代打了什么战争？",
+              "id": "5ad3ff1b604f3c001a3ffc73",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "1899年代发生了什么革命？",
+              "id": "5ad3ff1b604f3c001a3ffc74",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "16世纪的法国宗教战争和18世纪的法国大革命相继摧毁了这种诺曼创造力在建筑和艺术上的残余方式。前者因暴力而肆意破坏了许多诺曼底大厦。"
+        },
+        {
+          "qas": [
+            {
+              "question": "贝叶挂毯的创作使用了哪种针线活？",
+              "id": "56de4c324396321400ee27ab",
+              "answers": [
+                {
+                  "text": "刺绣",
+                  "answer_start": 29
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "诺曼艺术最著名的作品是什么？",
+              "id": "56de4c324396321400ee27ac",
+              "answers": [
+                {
+                  "text": "贝叶挂毯",
+                  "answer_start": 16
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "谁委托挂毯？",
+              "id": "56de4c324396321400ee27ad",
+              "answers": [
+                {
+                  "text": "奥多",
+                  "answer_start": 36
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "诺曼艺术最古老的作品是什么？",
+              "id": "5ad3fe91604f3c001a3ffc47",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "谁委托丹麦维京人创建贝叶挂毯？",
+              "id": "5ad3fe91604f3c001a3ffc48",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "迄今为止，诺曼艺术最著名的作品是贝叶挂毯，它不是挂毯，而是刺绣作品。它由奥多，巴约的主教和肯特的第一位伯爵委托，聘用了来自肯特的原住民，这些原住民是丹麦北欧海盗在上个半世纪引进的北欧传统中学习的。"
+        },
+        {
+          "qas": [
+            {
+              "question": "教堂中保存的诺曼艺术最重要的类型是什么？",
+              "id": "56de51244396321400ee27ef",
+              "answers": [
+                {
+                  "text": "马赛克",
+                  "answer_start": 141
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "英国艺术如何在诺曼底得以幸存？",
+              "id": "5ad3fe0d604f3c001a3ffc1b",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "教堂中最常见的诺曼艺术形式是什么？",
+              "id": "5ad3fe0d604f3c001a3ffc1c",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "1100年代的象牙加工中心是什么？",
+              "id": "5ad3fe0d604f3c001a3ffc1d",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "在英国，诺曼艺术主要以石雕或金属制品（例如大写字母和洗礼字体）生存。然而，在意大利南部，诺曼的艺术品以其希腊，伦巴底和阿拉伯前辈的强烈影响而大量存在。在巴勒莫保存的王室贵族中，王冠的风格是拜占庭式，加冕斗篷则是阿拉伯工艺的阿拉伯文铭文。许多教堂保留着雕刻的字体，大写字母，更重要的是马赛克，这些马赛克在意大利诺曼底很常见，并大量汲取了希腊的遗产。伦巴第·萨勒诺（Lombard Salerno）在11世纪曾是象牙加工的中心，在诺曼的统治下这一趋势一直持续。最后应该指出的是，法国十字军前往圣地之间的交往，他们带来了法国文物，以此作为礼物送给他们在诺曼堂兄弟中在意大利南部停留的教堂。因此，意大利南部的许多教堂都保存了法国的作品以及他们的本土作品。"
+        },
+        {
+          "qas": [
+            {
+              "question": "1100年代诺曼底发生了什么？",
+              "id": "5ad3fd68604f3c001a3ffbe7",
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "Fecamp Abby的中心是什么？",
+              "id": "5ad3fd68604f3c001a3ffbe8",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "诺曼底是11世纪古典音乐史上几个重要发展的所在地。Fécamp修道院和Saint-Evroul修道院是音乐制作和教育的中心。在费坎普（Fécamp），由沃尔皮诺（Volpiano）的威廉和拉文纳（Ravenna）的约翰（John）两位意大利方丈主持，开发并教授了用字母表示笔记的系统。它仍然是当今英语和德语国家中最常见的音调代表形式。同样在Fécamp，11世纪开始发展和教授以中立为基础的工作人员。在德国方丈伊森巴德（Isembard）的统治下，拉特里尼特·杜·蒙特（LaTrinité-du-Mont）成为了音乐创作的中心。"
+        },
+        {
+          "qas": [
+            {
+              "question": "僧侣们逃到哪里去了？",
+              "id": "56de52614396321400ee27fb",
+              "answers": [
+                {
+                  "text": "意大利南部",
+                  "answer_start": 106
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "圣埃夫鲁修士在意大利建立了哪个修道院？",
+              "id": "56de52614396321400ee27fc",
+              "answers": [
+                {
+                  "text": "Sant'Eufemia",
+                  "answer_start": 150
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "谁在意大利光顾僧侣？",
+              "id": "56de52614396321400ee27fd",
+              "answers": [
+                {
+                  "text": "罗伯特·吉斯卡德",
+                  "answer_start": 112
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "圣以弗洛尔的和尚以什么传统闻名？",
+              "id": "56de52614396321400ee27fe",
+              "answers": [
+                {
+                  "text": "唱歌",
+                  "answer_start": 183
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "谁逃离了意大利南部？",
+              "id": "5ad3fccf604f3c001a3ffbb5",
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "在圣埃夫鲁（Saint Evroul），歌唱的传统得到了发展，合唱团在诺曼底声名achieved起。在诺曼方丈罗伯特·德·格兰特梅尼尔（Robert de Grantmesnil）的统治下，圣埃夫鲁的几名僧侣逃往意大利南部，罗伯特·吉斯卡德（Robert Guiscard）资助他们，并在圣欧菲米娅（Sant'Eufemia）建立了一座拉丁修道院。在那里，他们延续了唱歌的传统。"
+        }
+      ]
+    }
+	}

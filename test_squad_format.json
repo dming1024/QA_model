@@ -1,0 +1,2313 @@
+{
+    "data": [
+        {
+            "title": "custom_dataset",
+            "paragraphs": [
+                {
+                    "context": "帮我检索PDX模型中TP53基因的表达吧",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "TP53",
+                                    "answer_start": 10
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "帮我检索PDX模型中TP53基因的表达吧",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "PDX",
+                                    "answer_start": 4
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "帮我检索PDX模型中TP53基因的表达吧",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "表达",
+                                    "answer_start": 17
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "查一下细胞系中egfr的突变",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "egfr",
+                                    "answer_start": 7
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "查一下细胞系中egfr的突变",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "细胞",
+                                    "answer_start": 3
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "查一下细胞系中egfr的突变",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "突变",
+                                    "answer_start": 12
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "查一下细胞系中egfr的基因融合数据",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "egfr",
+                                    "answer_start": 7
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "查一下细胞系中egfr的基因融合数据",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "细胞",
+                                    "answer_start": 3
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "查一下细胞系中egfr的基因融合数据",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "基因融合",
+                                    "answer_start": 12
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "PC细胞系中是否有abcd发生融合",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "abcd",
+                                    "answer_start": 9
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "PC细胞系中是否有abcd发生融合",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "细胞",
+                                    "answer_start": 2
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "PC细胞系中是否有abcd发生融合",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "融合",
+                                    "answer_start": 15
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "LU-XXDF模型是否有LLIE突变",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "LLIE",
+                                    "answer_start": 12
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "LU-XXDF模型是否有LLIE突变",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "LU-XXDF",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "LU-XXDF模型是否有LLIE突变",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "突变",
+                                    "answer_start": 16
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "有哪些模型中有KSIE扩增",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "KSIE",
+                                    "answer_start": 7
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "有哪些模型中有KSIE扩增",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "有哪些模型中有KSIE扩增",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "扩增",
+                                    "answer_start": 11
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "TPLSE在哪些模型中高表达",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "TPLSE",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "TPLSE在哪些模型中高表达",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "TPLSE在哪些模型中高表达",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "表达",
+                                    "answer_start": 12
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "哪些模型中R23-SER低表达",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "R23-SER",
+                                    "answer_start": 5
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "哪些模型中R23-SER低表达",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "哪些模型中R23-SER低表达",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "表达",
+                                    "answer_start": 13
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "哪些肺癌模型有kras突变",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "kras",
+                                    "answer_start": 7
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "哪些肺癌模型有kras突变",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "肺癌",
+                                    "answer_start": 2
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "哪些肺癌模型有kras突变",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "突变",
+                                    "answer_start": 11
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "找下DCC高表达的肿瘤模型",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "DCC",
+                                    "answer_start": 2
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "找下DCC高表达的肿瘤模型",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "肿瘤",
+                                    "answer_start": 9
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "找下DCC高表达的肿瘤模型",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "表达",
+                                    "answer_start": 6
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "这个模型LB有TEX突变吗",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "TEX",
+                                    "answer_start": 7
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "这个模型LB有TEX突变吗",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "LB",
+                                    "answer_start": 4
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "这个模型LB有TEX突变吗",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "突变",
+                                    "answer_start": 10
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "提供下所有模型中TP53，egfr，IDH1基因的突变数据",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "TP53，egfr，IDH1",
+                                    "answer_start": 8
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "提供下所有模型中TP53，egfr，IDH1基因的突变数据",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "所有",
+                                    "answer_start": 3
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "提供下所有模型中TP53，egfr，IDH1基因的突变数据",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "突变",
+                                    "answer_start": 25
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "TP53，IDH1基因有突变数据吗",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "TP53，IDH1",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "TP53，IDH1基因有突变数据吗",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "TP53，IDH1基因有突变数据吗",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "突变",
+                                    "answer_start": 12
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "请提供HLA的基因表达数据",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "HLA",
+                                    "answer_start": 3
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "请提供HLA的基因表达数据",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "请提供HLA的基因表达数据",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "表达",
+                                    "answer_start": 9
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "找一下TP53/egfr/IDH1基因的表达数据",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "TP53/egfr/IDH1",
+                                    "answer_start": 3
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "找一下TP53/egfr/IDH1基因的表达数据",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "找一下TP53/egfr/IDH1基因的表达数据",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "表达",
+                                    "answer_start": 20
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "TP53，IDH1基因有表达数据吗",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "TP53，IDH1",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "TP53，IDH1基因有表达数据吗",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "TP53，IDH1基因有表达数据吗",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "表达",
+                                    "answer_start": 12
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "请提供A,B,C,D,EAS,AERW,se23,gse9,a3, sge9基因的表达数据",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "A,B,C,D,EAS,AERW,se23,gse9,a3, sge9",
+                                    "answer_start": 3
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "请提供A,B,C,D,EAS,AERW,se23,gse9,a3, sge9基因的表达数据",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "请提供A,B,C,D,EAS,AERW,se23,gse9,a3, sge9基因的表达数据",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "表达",
+                                    "answer_start": 41
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "请提供A,B,C,D,EAS,AERW,se23,gse9,a3, sge9基因的表达、突变和融合数据",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "A,B,C,D,EAS,AERW,se23,gse9,a3, sge9",
+                                    "answer_start": 3
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "请提供A,B,C,D,EAS,AERW,se23,gse9,a3, sge9基因的表达、突变和融合数据",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "请提供A,B,C,D,EAS,AERW,se23,gse9,a3, sge9基因的表达、突变和融合数据",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "表达、突变和融合数据",
+                                    "answer_start": 41
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "查一下所有模型中是否有tp53突变",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "tp53",
+                                    "answer_start": 11
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "查一下所有模型中是否有tp53突变",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "所有",
+                                    "answer_start": 3
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "查一下所有模型中是否有tp53突变",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "突变",
+                                    "answer_start": 15
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "请检索SLE12基因的表达、突变和融合数据",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "SLE12",
+                                    "answer_start": 3
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "请检索SLE12基因的表达、突变和融合数据",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "请检索SLE12基因的表达、突变和融合数据",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "表达、突变和融合",
+                                    "answer_start": 11
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "EGFR是否在PDX模型中有突变",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "EGFR",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "EGFR是否在PDX模型中有突变",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "PDX",
+                                    "answer_start": 7
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "EGFR是否在PDX模型中有突变",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "突变",
+                                    "answer_start": 14
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "UIJD9在细胞系中有表达吗",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "UIJD9",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "UIJD9在细胞系中有表达吗",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "细胞",
+                                    "answer_start": 6
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "UIJD9在细胞系中有表达吗",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "表达",
+                                    "answer_start": 11
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "是否存在既有TP53突变的细胞",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "TP53",
+                                    "answer_start": 6
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "是否存在既有TP53突变的细胞",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "细胞",
+                                    "answer_start": 13
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "是否存在既有TP53突变的细胞",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "突变",
+                                    "answer_start": 10
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "我想查询下pdx模型中，哪些模型有klis基因突变",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "klis",
+                                    "answer_start": 17
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "我想查询下pdx模型中，哪些模型有klis基因突变",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "pdx",
+                                    "answer_start": 5
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "我想查询下pdx模型中，哪些模型有klis基因突变",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "突变",
+                                    "answer_start": 23
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "帮我检索PDX模型中TP53基因的表达吧",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "TP53",
+                                    "answer_start": 10
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "帮我检索PDX模型中TP53基因的表达吧",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "PDX",
+                                    "answer_start": 4
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "帮我检索PDX模型中TP53基因的表达吧",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "表达",
+                                    "answer_start": 17
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "查一下细胞系中egfr的突变",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "egfr",
+                                    "answer_start": 7
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "查一下细胞系中egfr的突变",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "细胞",
+                                    "answer_start": 3
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "查一下细胞系中egfr的突变",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "突变",
+                                    "answer_start": 12
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "查一下细胞系中egfr的基因融合数据",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "egfr",
+                                    "answer_start": 7
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "查一下细胞系中egfr的基因融合数据",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "细胞",
+                                    "answer_start": 3
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "查一下细胞系中egfr的基因融合数据",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "基因融合",
+                                    "answer_start": 12
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "PC细胞系中是否有abcd发生融合",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "abcd",
+                                    "answer_start": 9
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "PC细胞系中是否有abcd发生融合",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "细胞",
+                                    "answer_start": 2
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "PC细胞系中是否有abcd发生融合",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "融合",
+                                    "answer_start": 15
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "LU-XXDF模型是否有LLIE突变",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "LLIE",
+                                    "answer_start": 12
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "LU-XXDF模型是否有LLIE突变",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "LU-XXDF",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "LU-XXDF模型是否有LLIE突变",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "突变",
+                                    "answer_start": 16
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "有哪些模型中有KSIE扩增",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "KSIE",
+                                    "answer_start": 7
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "有哪些模型中有KSIE扩增",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "有哪些模型中有KSIE扩增",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "扩增",
+                                    "answer_start": 11
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "TPLSE在哪些模型中高表达",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "TPLSE",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "TPLSE在哪些模型中高表达",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "TPLSE在哪些模型中高表达",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "表达",
+                                    "answer_start": 12
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "哪些模型中R23-SER低表达",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "R23-SER",
+                                    "answer_start": 5
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "哪些模型中R23-SER低表达",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "哪些模型中R23-SER低表达",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "表达",
+                                    "answer_start": 13
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "哪些肺癌模型有kras突变",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "kras",
+                                    "answer_start": 7
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "哪些肺癌模型有kras突变",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "肺癌",
+                                    "answer_start": 2
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "哪些肺癌模型有kras突变",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "突变",
+                                    "answer_start": 11
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "找下DCC高表达的肿瘤模型",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "DCC",
+                                    "answer_start": 2
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "找下DCC高表达的肿瘤模型",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "肿瘤",
+                                    "answer_start": 9
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "找下DCC高表达的肿瘤模型",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "表达",
+                                    "answer_start": 6
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "这个模型LB有TEX突变吗",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "TEX",
+                                    "answer_start": 7
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "这个模型LB有TEX突变吗",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "LB",
+                                    "answer_start": 4
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "这个模型LB有TEX突变吗",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "突变",
+                                    "answer_start": 10
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "提供下所有模型中TP53，egfr，IDH1基因的突变数据",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "TP53，egfr，IDH1",
+                                    "answer_start": 8
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "提供下所有模型中TP53，egfr，IDH1基因的突变数据",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "所有",
+                                    "answer_start": 3
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "提供下所有模型中TP53，egfr，IDH1基因的突变数据",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "突变",
+                                    "answer_start": 25
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "TP53，IDH1基因有突变数据吗",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "TP53，IDH1",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "TP53，IDH1基因有突变数据吗",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "TP53，IDH1基因有突变数据吗",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "突变",
+                                    "answer_start": 12
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "请提供HLA的基因表达数据",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "HLA",
+                                    "answer_start": 3
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "请提供HLA的基因表达数据",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "请提供HLA的基因表达数据",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "表达",
+                                    "answer_start": 9
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "找一下TP53/egfr/IDH1基因的表达数据",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "TP53/egfr/IDH1",
+                                    "answer_start": 3
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "找一下TP53/egfr/IDH1基因的表达数据",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "找一下TP53/egfr/IDH1基因的表达数据",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "表达",
+                                    "answer_start": 20
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "TP53，IDH1基因有表达数据吗",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "TP53，IDH1",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "TP53，IDH1基因有表达数据吗",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "TP53，IDH1基因有表达数据吗",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "表达",
+                                    "answer_start": 12
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "请提供A,B,C,D,EAS,AERW,se23,gse9,a3, sge9基因的表达数据",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "A,B,C,D,EAS,AERW,se23,gse9,a3, sge9",
+                                    "answer_start": 3
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "请提供A,B,C,D,EAS,AERW,se23,gse9,a3, sge9基因的表达数据",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "请提供A,B,C,D,EAS,AERW,se23,gse9,a3, sge9基因的表达数据",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "表达",
+                                    "answer_start": 41
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "请提供A,B,C,D,EAS,AERW,se23,gse9,a3, sge9基因的表达、突变和融合数据",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "A,B,C,D,EAS,AERW,se23,gse9,a3, sge9",
+                                    "answer_start": 3
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "请提供A,B,C,D,EAS,AERW,se23,gse9,a3, sge9基因的表达、突变和融合数据",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "请提供A,B,C,D,EAS,AERW,se23,gse9,a3, sge9基因的表达、突变和融合数据",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "表达、突变和融合数据",
+                                    "answer_start": 41
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "查一下所有模型中是否有tp53突变",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "tp53",
+                                    "answer_start": 11
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "查一下所有模型中是否有tp53突变",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "所有",
+                                    "answer_start": 3
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "查一下所有模型中是否有tp53突变",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "突变",
+                                    "answer_start": 15
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "请检索SLE12基因的表达、突变和融合数据",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "SLE12",
+                                    "answer_start": 3
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "请检索SLE12基因的表达、突变和融合数据",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "请检索SLE12基因的表达、突变和融合数据",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "表达、突变和融合",
+                                    "answer_start": 11
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "EGFR是否在PDX模型中有突变",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "EGFR",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "EGFR是否在PDX模型中有突变",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "PDX",
+                                    "answer_start": 7
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "EGFR是否在PDX模型中有突变",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "突变",
+                                    "answer_start": 14
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "UIJD9在细胞系中有表达吗",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "UIJD9",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "UIJD9在细胞系中有表达吗",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "细胞",
+                                    "answer_start": 6
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "UIJD9在细胞系中有表达吗",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "表达",
+                                    "answer_start": 11
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "是否存在既有TP53突变的细胞",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "TP53",
+                                    "answer_start": 6
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "是否存在既有TP53突变的细胞",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "细胞",
+                                    "answer_start": 13
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "是否存在既有TP53突变的细胞",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "突变",
+                                    "answer_start": 10
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "我想查询下pdx模型中，哪些模型有klis基因突变",
+                    "qas": [
+                        {
+                            "question": "什么基因",
+                            "id": "-2390676833008320802",
+                            "answers": [
+                                {
+                                    "text": "klis",
+                                    "answer_start": 17
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "我想查询下pdx模型中，哪些模型有klis基因突变",
+                    "qas": [
+                        {
+                            "question": "什么模型",
+                            "id": "3095647914254659393",
+                            "answers": [
+                                {
+                                    "text": "pdx",
+                                    "answer_start": 5
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "我想查询下pdx模型中，哪些模型有klis基因突变",
+                    "qas": [
+                        {
+                            "question": "什么数据类型",
+                            "id": "3744365843759631129",
+                            "answers": [
+                                {
+                                    "text": "突变",
+                                    "answer_start": 23
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
